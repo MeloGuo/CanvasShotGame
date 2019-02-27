@@ -16,7 +16,7 @@
 
 
 ## 项目演示地址
-[演示地址](https://mluka.github.io/CanvasShotGame/index.html)
+[演示地址](http://meloguo.com/CanvasShotGame/)
 
 ## 项目ToDo
 - **增加背景音乐**
